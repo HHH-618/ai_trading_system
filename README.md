@@ -88,5 +88,5 @@ cd ai_trading_system
 python train.py --symbol XAUUSD.r --timeframe H1
 6. 启动实盘交易
 python trade.py --mode live
-7. 查看监控系统
+7. 查看监控系统  
 python scripts/monitor.py
